@@ -1,3 +1,3 @@
-module janson.com/goDemo
+module goDemo1
 
 go 1.17
