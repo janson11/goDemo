@@ -35,9 +35,4 @@ func main() {
 		sum += i
 	}
 	fmt.Println("the sum is", sum)
-
-}
-
-func switchTest(i int) {
-
 }
